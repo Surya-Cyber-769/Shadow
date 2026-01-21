@@ -13,9 +13,9 @@
 - **Customizable UI:** HTML and CSS can be easily modified for branding or personalization.  
 - **Potential for extension:** Can be integrated with databases, APIs, or other Python modules to expand functionality.  
 
-## Installation
-1. **Clone the repository**
+## Installation and Use
    ```bash
    git clone https://github.com/Surya-Cyber-769/Shadow.git
    cd Shadow
+python run.py
    ```
