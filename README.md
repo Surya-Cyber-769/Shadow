@@ -17,5 +17,5 @@
    ```bash
    git clone https://github.com/Surya-Cyber-769/Shadow.git
    cd Shadow
-python run.py
+python app.py
    ```
